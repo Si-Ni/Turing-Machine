@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "tsc -t es5 src/script.ts",
+    "start": "node src/script.js"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
